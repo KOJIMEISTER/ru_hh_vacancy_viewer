@@ -34,3 +34,10 @@
 6) evaluate
 7) torch
 8) psycopg2
+
+![Поиск](https://github.com/KOJIMEISTER/RU_VACANCY_VIEWER/blob/main/preview/search.png)
+![Проифль](https://github.com/KOJIMEISTER/RU_VACANCY_VIEWER/blob/main/preview/profile.png)
+![История](https://github.com/KOJIMEISTER/RU_VACANCY_VIEWER/blob/main/preview/history.png)
+![Сбор датасета](https://github.com/KOJIMEISTER/RU_VACANCY_VIEWER/blob/main/preview/dataset.png)
+![Обучение](https://github.com/KOJIMEISTER/RU_VACANCY_VIEWER/blob/main/preview/train.png)
+![Обновление вакансий](https://github.com/KOJIMEISTER/RU_VACANCY_VIEWER/blob/main/preview/refresh.png)
