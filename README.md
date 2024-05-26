@@ -22,6 +22,7 @@
 6) Libcurl
 7) PostgreSQL 16+
 8) C++ 20
+9) MSVC 142
 
 Модули Python:
 
