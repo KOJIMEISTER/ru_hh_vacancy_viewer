@@ -14,22 +14,21 @@
 
 Требования:
 
-Windows 10
-Windows SDK 10
-Boost.Python
-Qt 6.2.*
-Python 3.10.*
-Libcurl
-PostgreSQL 16+
-C++ 20
+1) Windows 10
+2) Windows SDK 10
+3) Boost.Python
+4) Qt 6.2.*
+5) Python 3.10.*
+6) Libcurl
+7) PostgreSQL 16+
+8) C++ 20
 
 Модули Python:
 
-transformers[pytorch]
-numpy
-pandas
-nltk
-datasets
-evaluate
-torch
-psycopg2
+1) transformers[pytorch]
+2) numpypandas
+3) nltk
+4) datasets
+5) evaluate
+6) torch
+7) psycopg2
