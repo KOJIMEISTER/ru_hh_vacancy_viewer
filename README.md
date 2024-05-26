@@ -27,13 +27,14 @@
 Модули Python:
 
 1) transformers[pytorch]
-2) numpy
-3) pandas
-4) nltk
-5) datasets
-6) evaluate
-7) torch
-8) psycopg2
+2) accelerate
+3) numpy
+4) pandas
+5) nltk
+6) datasets
+7) evaluate
+8) torch
+9) psycopg2
 
 ![Поиск](https://github.com/KOJIMEISTER/RU_VACANCY_VIEWER/blob/main/preview/search.png)
 ![Проифль](https://github.com/KOJIMEISTER/RU_VACANCY_VIEWER/blob/main/preview/profile.png)
