@@ -1,8 +1,6 @@
 # RU HH Vacancy Viewer
 
 ![License](https://img.shields.io/github/license/KOJIMEISTER/ru_hh_vacancy_viewer)
-![Stars](https://img.shields.io/github/stars/KOJIMEISTER/ru_hh_vacancy_viewer?style=social)
-![Forks](https://img.shields.io/github/forks/KOJIMEISTER/ru_hh_vacancy_viewer?style=social)
 
 Welcome to the **RU HH Vacancy Viewer** – a powerful desktop application designed to streamline your job search by leveraging the HeadHunter (HH) API and advanced neural network classification.
 
