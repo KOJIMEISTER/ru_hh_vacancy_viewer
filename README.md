@@ -42,8 +42,8 @@ The RU HH Vacancy Viewer is a comprehensive desktop application tailored for IT 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/KOJIMEISTER/ru_hh_vacancy_viewer/raw/main/screenshots/main_view.png" alt="Main View" width="600"/>
-  <img src="https://github.com/KOJIMEISTER/ru_hh_vacancy_viewer/raw/main/screenshots/training_app.png" alt="Training Application" width="600"/>
+  <img src="https://github.com/KOJIMEISTER/ru_hh_vacancy_viewer/blob/main/preview/search.png" alt="Main View" width="600"/>
+  <img src="https://github.com/KOJIMEISTER/ru_hh_vacancy_viewer/blob/main/preview/dataset.png" alt="Training Application" width="600"/>
 </div>
 
 ## 💾 Installation
